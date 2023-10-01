@@ -48,11 +48,6 @@ public class GradeCalculator
         System.out.println("\nTotal Marks: " + totalMarks);
         System.out.println("Average Percentage: " + averagePercentage + "%");
         System.out.println("Grade: " + grade);
-
-         if(grade == "C" || grade == "D" || grade == "F")
-        {
-            System.out.println("\nYou're not alone\nEvery life matters :)\nicall 5252525552\nFree · Confidential · Hours: 10:00 am to 8:00 pm, Monday to Saturday");
-        }
         sc.close();
     }
 }
